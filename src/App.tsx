@@ -53,7 +53,6 @@ function App() {
   const skills = {
   languages: ['Python', 'C++', 'SQL'],
   frameworks: ['TensorFlow', 'PyTorch', 'Scikit-learn', 'Pandas', 'NumPy'],
-  design: ['Figma', 'Adobe XD', 'Balsamiq', 'FigJam', 'Canva'],
   webDevelopment: ['HTML5', 'CSS3', 'JavaScript', 'Tailwind CSS', 'React (Vite)', 'FastAPI'],
   databasesAndCloud: ['Firebase', 'MySQL', 'MongoDB', 'AWS', 'Google Cloud Platform'],
   dataVisualization: ['Power BI', 'Matplotlib', 'Seaborn'],
@@ -299,7 +298,7 @@ function App() {
       {/* Experience Section */}
       <section className="py-24 px-6 max-w-6xl mx-auto">
         <h2 className="text-4xl md:text-5xl font-bold mb-16 text-center bg-gradient-to-r from-purple-400 to-pink-400 bg-clip-text text-transparent">
-          Experience
+          Internship
         </h2>
         <div className="space-y-8">
           {experiences.map((exp, index) => (
