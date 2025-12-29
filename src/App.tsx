@@ -109,8 +109,11 @@ function App() {
             <Sparkles className="w-12 h-12 text-purple-500 animate-pulse" />
           </div>
           <h1 className="text-5xl md:text-7xl font-bold mb-6 bg-gradient-to-r from-white via-purple-200 to-purple-400 bg-clip-text text-transparent">
-            Hi, I'm Anuj Singh Thakur  🙋🏻‍♂️
+            Hi, I'm Anuj Singh Thakur 
           </h1>
+          <img src="/anuj.jpg" alt="Anuj Singh Thakur" className="w-52 h-52 md:w-64 md:h-64 rounded-3xl object-cover 
+             shadow-[0_0_40px_rgba(168,85,247,0.5)] mb-6"/>
+          
           <p className="text-xl md:text-3xl font-semibold text-purple-400 mb-4">
             A Developer & Designer who builds AI-powered, user-centric products.
           </p>
